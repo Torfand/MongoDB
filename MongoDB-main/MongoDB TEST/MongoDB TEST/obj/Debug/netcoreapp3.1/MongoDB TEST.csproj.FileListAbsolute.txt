@@ -1,0 +1,23 @@
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB TEST.exe
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB TEST.deps.json
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB TEST.runtimeconfig.json
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB TEST.runtimeconfig.dev.json
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB TEST.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB TEST.pdb
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\obj\Debug\netcoreapp3.1\MongoDB TEST.csprojAssemblyReference.cache
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\obj\Debug\netcoreapp3.1\MongoDB TEST.csproj.CoreCompileInputs.cache
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\obj\Debug\netcoreapp3.1\MongoDB TEST.AssemblyInfoInputs.cache
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\obj\Debug\netcoreapp3.1\MongoDB TEST.AssemblyInfo.cs
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\obj\Debug\netcoreapp3.1\MongoDB TEST.csproj.CopyComplete
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\obj\Debug\netcoreapp3.1\MongoDB TEST.dll
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\obj\Debug\netcoreapp3.1\MongoDB TEST.pdb
+C:\Users\Torf\Desktop\MongoDB-main\MongoDB-main\MongoDB TEST\MongoDB TEST\obj\Debug\netcoreapp3.1\MongoDB TEST.genruntimeconfig.cache
